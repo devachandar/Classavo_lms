@@ -47,8 +47,7 @@ const LoginPage = () => {
         <div className="w-full max-w-md bg-white rounded-3xl shadow-2xl p-8">
 
             <h1 className="text-3xl font-bold text-center mb-2">
-            {/* LMS Platform */}
-            CICD Testing
+            LMS Platform
             </h1>
 
             <p className="text-center text-slate-500 mb-8">
